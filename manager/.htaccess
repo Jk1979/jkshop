@@ -1,0 +1,13 @@
+RewriteEngine Off
+
+
+
+##AuthType Basic
+##AuthName "Restricted Access"
+##AuthUserFile /var/www/jkshop/jk-shop.com.ua/.htpasswd
+##Require valid-user
+##<Files .htpasswd>
+##   deny from all
+##</Files>
+##ErrorDocument 401 "401 Authorisation Required"
+

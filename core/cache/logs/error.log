@@ -1,0 +1,2 @@
+[2018-10-10 10:43:20] (ERROR @ /var/www/jkshop/jk-shop.com.ua/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: https://modstore.pro/
+[2018-10-10 10:43:25] (ERROR @ /var/www/jkshop/jk-shop.com.ua/core/model/modx/rest/modrestclient.class.php : 241) Could not connect to provider at: https://modstore.pro
