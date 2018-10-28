@@ -45,10 +45,13 @@
                 <div class="col-md-12 col-sm-6 col-xs-6">
                     <div class="row">
                         <div id="product-slick-1" class="product-slick">
+
                             [[!msProducts?
                             &limit = `3`
+                            &parents=`3`
                             &tpl=`@FILE chunks/productcard.tpl`
-                            &where=`{"Data.popular":1}`
+                            &where = { "Data.popular":1 }
+
                             ]]
                         </div>
                     </div>

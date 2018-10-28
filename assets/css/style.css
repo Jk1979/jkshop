@@ -901,7 +901,7 @@ textarea.input {
 
 .product.product-single .product-thumb {
   position: relative;
-  margin-bottom: 15px;
+  /*margin-bottom: 15px;*/
 }
 
 .product.product-single .product-thumb>img {
